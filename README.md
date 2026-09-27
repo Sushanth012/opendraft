@@ -30,6 +30,22 @@
 
 ---
 
+## Use OpenDraft in Claude Code or Codex
+
+Connect Edge, then ask your agent to research a topic and draft a paper with citations.
+
+```text
+Read https://getedge.cc/SKILL.md?ref=opendraft-github and help me connect Edge if needed.
+
+Once Edge is available, find and load the OpenPaper x OpenDraft skill and write a cited research draft on [YOUR TOPIC].
+
+If a restart is required, give me the exact prompt to resume.
+```
+
+Replace [YOUR TOPIC], then paste into your agent.
+
+---
+
 ## At a Glance
 
 | | |
